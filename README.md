@@ -1,3 +1,4 @@
+Making some changes to cloned repo
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-with-text-dark.svg">
